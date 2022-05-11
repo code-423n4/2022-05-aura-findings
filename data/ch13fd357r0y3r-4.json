@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "ch13fd357r0y3r",
+  "address": "0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f",
+  "risk": "3",
+  "title": "Distributing Other Generic tokens can be called to Anyone and allows transfer incentives to msg.sender",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/4"
+}
