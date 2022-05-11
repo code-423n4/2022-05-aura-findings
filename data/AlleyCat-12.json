@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "AlleyCat",
+  "address": "0x9dfcc853d908ef27ec32826c96306841218e88f4",
+  "risk": "3",
+  "title": "Duplicate Contract Names",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/12"
+}
