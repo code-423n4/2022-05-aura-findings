@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "0xjuicer",
+  "address": "0x1dBc998513F89b662dcA32E72E2717B8cDD20cD5",
+  "risk": "2",
+  "title": "BaseRewardPool4626 is not IERC4626 compliant",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/26"
+}
