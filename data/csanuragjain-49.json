@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "csanuragjain",
+  "address": "0xd295584135829D89427674B72560222B06E08a15",
+  "risk": "3",
+  "title": "Penalty will be forced even when user wants to lock amount",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/49"
+}
