@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "kaifahmed",
+  "address": "0xcE2573b26D8FF4E799cF6608B016Ba1Ba48C29d6",
+  "risk": "2",
+  "title": "Amount and address checks should be place to maintain extra security",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/76"
+}
