@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "Kthere",
+  "address": "0xe3D091E8122E65a0bD6a3B1bc1Ee12B7C4ebb61f",
+  "risk": "2",
+  "title": "Penalty value lost if `penaltyForwarder` is address(0)",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/95"
+}
