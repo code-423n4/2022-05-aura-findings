@@ -1,9 +1,0 @@
-{
-  "contest": 123,
-  "handle": "0x52",
-  "address": "0x522DFfc539c264A8f7E0B91102E899b33f4DAbc3",
-  "risk": "3",
-  "title": "AuraLocker.sol lock() can be used to dos user",
-  "issueId": 111,
-  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/111"
-}
