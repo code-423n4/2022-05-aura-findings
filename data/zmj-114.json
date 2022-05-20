@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "zmj",
+  "address": "Zelenaya Roshcha-1 KIZ poselok 10000",
+  "risk": "2",
+  "title": " 256 to 112 could cause a wrong lock amount",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/114"
+}
