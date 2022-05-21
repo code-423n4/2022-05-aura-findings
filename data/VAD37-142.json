@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "VAD37",
+  "address": "0x6995870D9890e10979aFCbDEA5d8D249e969822D",
+  "risk": "3",
+  "title": "`AuraLocker.sol` `totalSupplyAtEpoch(uint256)` varied adaptation and its unintended consequences",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/142"
+}
