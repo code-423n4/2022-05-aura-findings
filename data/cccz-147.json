@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": " ConvexMasterChef: When using add() and set(), it should always call massUpdatePools() to update all pools",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/147"
+}
