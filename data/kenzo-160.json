@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "ExtraRewardsDistributor: user will lose rewards from epochs < t if claiming rewards at epoch t",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/160"
+}
