@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "AuraLocker kick reward only takes last locked amount into consideration, instead of whole balance",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/156"
+}
