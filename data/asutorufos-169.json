@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "asutorufos",
+  "address": "0xB4EBA2c82c248584a2DA0c75e1168D3b931D18af",
+  "risk": "2",
+  "title": "Reused Interface names",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/169"
+}
