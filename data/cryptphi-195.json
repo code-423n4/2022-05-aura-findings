@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "User can gain more pending reward for free due to possible re-entrancy in ConvexMasterChef.sol",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/195"
+}
