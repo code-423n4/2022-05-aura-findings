@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "emergencyWIthdraw() can be called any time in ConvexMasterChef.sol which may allow a user to lose rewards.",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/196"
+}
