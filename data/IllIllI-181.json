@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Users can get rewards even if not locking for the full lock duration",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/181"
+}
