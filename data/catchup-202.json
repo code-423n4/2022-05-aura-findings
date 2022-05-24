@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "2",
+  "title": "Unlimited approval is used for ERC20 tokens",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/202"
+}
