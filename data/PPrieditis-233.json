@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "PPrieditis",
+  "address": "0x855eAb463C41F6Ba5DE353c462878D930d7895Ea",
+  "risk": "3",
+  "title": "Aura.sol mint() function has a bug in the logic ",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/233"
+}
