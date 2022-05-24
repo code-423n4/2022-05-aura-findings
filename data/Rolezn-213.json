@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "Rolezn",
+  "address": "0xf6850e8F677D320159Bb8C84F40dD136d03A2ebb",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/213"
+}
