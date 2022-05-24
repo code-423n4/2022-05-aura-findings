@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "SmartSek",
+  "address": "0x0058dd50c91d60F0A973fE15Fb40e4430F4DAA08",
+  "risk": "2",
+  "title": "Failed withdrawal in `shutdownPool()` Try/Catch block can cause loss of funds",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/238"
+}
