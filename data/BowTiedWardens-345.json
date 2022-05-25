@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "2",
+  "title": "Loss of funds via owner compromise",
+  "issueId": 345,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/345"
+}
