@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "user can lose funds because constructor in AuraBalRewardPool and BaseRewardPool allows rewardToken and stakingToken to have same value.",
+  "issueId": 290,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/290"
+}
