@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "claim() in AuraMerkleDrop every address can withdraw one times and if there was two leaf for one address, user can't withdraw both of them",
+  "issueId": 320,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/320"
+}
