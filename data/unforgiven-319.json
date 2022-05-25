@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "In claim() of AuraMerkleDrop use can lose fund if _lock==true and auraLocker==0x0",
+  "issueId": 319,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/319"
+}
