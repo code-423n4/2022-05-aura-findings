@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "sseefried",
+  "address": "0x60e5e1B860C8ff0Eb29bf5D4D4e6b12EC49F97ae",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 268,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/268"
+}
