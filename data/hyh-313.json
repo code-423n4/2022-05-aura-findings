@@ -1,0 +1,9 @@
+{
+  "contest": 123,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "2",
+  "title": "ConvexMasterChef's deposit and withdraw can be reentered drawing all reward funds from the contract if reward token allows for transfer flow control",
+  "issueId": 313,
+  "issueUrl": "https://github.com/code-423n4/2022-05-aura-findings/issues/313"
+}
