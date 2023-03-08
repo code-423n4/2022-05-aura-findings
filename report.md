@@ -1,3 +1,11 @@
+---
+sponsor: "Aura Finance"
+slug: "2022-05-aura"
+date: "2022-07-26"
+title: "Aura Finance contest"
+findings: "https://github.com/code-423n4/2022-05-aura-findings/issues"
+contest: 123
+---
 
 # Overview
 
